@@ -1,0 +1,6 @@
+[submodule "projects/Sp2020/ew282d-sp2020-0451-smith"]
+	path = projects/Sp2020/ew282d-sp2020-0451-smith
+	url = git@github.com:ew282d-evangelista/ew282d-sp2020-0451-smith.git
+[submodule "projects/Sp2020/ew282d-sp2020-0451-trombetta"]
+	path = projects/Sp2020/ew282d-sp2020-0451-trombetta
+	url = git@github.com:ew282d-evangelista/ew282d-sp2020-0451-trombetta.git
